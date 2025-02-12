@@ -16,3 +16,7 @@ Key Metrics & Analysis Areas:
 8) Relevance scores for movie tags
 9) Most relevant tags for top-rated movies
 10) Top Movies by Tags
+
+PROJECT DASHBOARD FILE:https://drive.google.com/file/d/10irp6bi9k2ybGbSFLwHrnjo7Q0aPqKdy/view?usp=sharing
+
+PROJECT PDF FILE:https://drive.google.com/file/d/1OLJfVupC5WcOeYvXkFR-dXY6n1FfoaAd/view?usp=sharing
